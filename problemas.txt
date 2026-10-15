@@ -1,0 +1,8 @@
+1-Gestion de membresías de un gimnasio 
+El gimnasio bfit desea gestionar sus membresías, desde visitas hasta anualidades. Sobre todo, se desea gestionar el acceso de los usuarios, y dejar atrás las libretas y tarjetas de papel. Se requiere llevar el control de faltas de control sobre los pagos vencidos, también la entrada y salida de los clientes.
+2-Gestion de tienda de ropa 
+La tienda de ropa de mis papás sufre perdidas y confusiones al llevar el control de su inventario de forma manual, ya que un mismo modelo de prenda cuenta con muchas prendas similares ya se iguales y de una talla distinta. Por lo que se requiere llevar el stock y la entrada y salida de la ropa. 
+3-Gestion de Florería 
+La florería de mi tía requiere tener un punto de venta para su tienda, ya que llevar sus notas o apuntes desde una libreta le resulta demasiado difícil, por lo que quiere una app en la cual llevar lo que vende cada dia y que es lo que vende. 
+4-Gestion de una Cafeteria 
+La cafetería de mi prima ha estado experimentando demoras en su cafetería, debido a que no tiene un punto de venta y debido a que la toma de pedidos se realiza en papel, y la comunicación entre meseros y personas de la barra es mediante gritos. Por lo que se requiere una app que mande las ordenes hacia la barra y agilizar el trabajo 
